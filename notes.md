@@ -281,6 +281,13 @@ Or as a penalty, doing transferFROM:
                 pinakion.transferFrom(vote.account, this, penalty);
 ```
 
+## PoH and Arbitrator
+
+Some arbitrator functions (to be continued):
+
+- appealPeriod
+- arbitrationCost
+- createDispute
 
 ## Some PoH flows (research)
 
